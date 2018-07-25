@@ -1,0 +1,8 @@
+- padding is your friend 
+- increase line height and vary body copy from headings
+- don't use black for text
+- less fonts 
+- be consistant with fonts
+- less colors the better
+- border and corners (choose a style and be consistant) 
+- subtle transistions and animation make a huge diference
